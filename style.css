@@ -1,0 +1,17 @@
+.numero{
+    display: inline;
+    background-color: rgb(255, 0, 0);
+    color: yellow;
+    width: 250px;
+    height: 250px;
+    margin-right: 10px;
+    font-size: 40px;
+}
+.principal{
+    display: flex;
+    justify-content: flex-start;
+}
+#numero2{
+    background-color: black;
+    color:white
+}
